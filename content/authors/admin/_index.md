@@ -28,7 +28,7 @@ role: Undergraduate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: MICLab
-    url: [https://openai.com/](https://micxyb.github.io/)
+    url: [https://micxyb.github.io/]
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,9 +37,9 @@ profiles:
     url: uicetomeetn@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: [https://github.com/gcushen](https://github.com/Uli-Chen)
+    url: [https://github.com/Uli-Chen]
   - icon: academicons/orcidgit
-    url: [https://orcid.org/](https://orcid.org/my-orcid?orcid=0009-0001-6964-9276)
+    url: [https://orcid.org/my-orcid?orcid=0009-0001-6964-9276]
 
 interests:
   - Artificial Intelligence
